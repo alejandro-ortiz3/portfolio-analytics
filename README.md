@@ -2,6 +2,7 @@
 
 Hi! I felt like building a real-time financial dashboard so here it is! Monitors 10,000 securities with really fun advanced visualizations and some neat performance optimization.
 
+![React](https://img.shields.io/badge/React-18.x-61dafb?style=for-the-badge&logo=react&logoColor=black)
 ![Portfolio Analytics](https://img.shields.io/badge/React-18.x-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)
 
@@ -56,7 +57,7 @@ Handles 10,000+ rows with:
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/portfolio-analytics.git
+git clone https://github.com/alejandro-ortiz3/portfolio-analytics.git
 
 # Navigate to project directory
 cd portfolio-analytics
